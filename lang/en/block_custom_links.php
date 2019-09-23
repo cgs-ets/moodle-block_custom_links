@@ -21,7 +21,7 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['customlinks'] = 'Custom Links';
+$string['title'] = 'Custom Links';
 $string['custom_links:addinstance'] = 'Add a Custom Links block';
 $string['custom_links:edit'] = 'Edit a Custom Links block';
 $string['custom_links:myaddinstance'] = 'Add a Custom Links block to the Dashboard';
@@ -42,6 +42,6 @@ $string['targetdesc'] = 'Open in new window';
 $string['numeric'] = 'You must enter a number here.';
 $string['arrayno'] = '{no}';
 $string['sorticonsalpha'] = 'Sort alphabetically';
-$string['sorticonsalpha_desc'] = 'This option will cause icon links to be sorted by label in alphabetical order. Individual link order set below will be ignored.';
+$string['sorticonsalpha_desc'] = 'This option will cause icon links to be sorted by label in alphabetical order.';
 $string['sorttextalpha'] = 'Sort alphabetically';
 $string['sorttextalpha_desc'] = 'This option will cause text links to be sorted by label in alphabetical order.';

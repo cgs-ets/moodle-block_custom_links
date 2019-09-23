@@ -229,7 +229,7 @@ class block_custom_links_edit_form extends block_edit_form {
         $repeatoptions['config_textlinkurl']['disabledif']      = array('config_textlinkdelete', 'checked');
         $repeatoptions['config_textlinktarget']['disabledif']   = array('config_textlinkdelete', 'checked');
         $repeatoptions['config_textlinkorder']['disabledif']   = array('config_textlinkdelete', 'checked');
-        
+
         $repeatoptions['config_textlinkorder']['hideif']   = array('config_sorttextlinksalpha', 'checked');
 
         $this->repeat_elements($repeatarray, $repeatcount, $repeatoptions, 'textlink_repeats', 'textlink_add_fields',
